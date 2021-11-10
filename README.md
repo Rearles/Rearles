@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rearles
 - 👀 I’m interested in learning more about coding languages (C#, Java, Python, Ruby, etc.) as well as other frameworks (Microsoft .NET).
-- 🌱 I’m currently learning Microsoft .NET by experimenting with how it works 
+- 🌱 I've been in training for the last couple of months with Revature to become a .NET Full Stack Developer. The repos for the projects from training are on my Github. 
 - 💞️ I’m looking to collaborate on fun projects and interesting concepts. Feel free to reach out if you have something cool you are working on.
 - 📫 How to reach me email me at ryanjayearles@gmail.com
 
